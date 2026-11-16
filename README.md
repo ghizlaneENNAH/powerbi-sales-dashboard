@@ -95,7 +95,7 @@ Création de 3 pages de rapport, avec segments (filtres), bouton **« Effacer to
 
 ### 📦 Page 2 : Produits
 
-![Dashboard Produits](ScreenShots/Produits.png)
+![Dashboard Produits](ScreenShots/Produits.PNG)
 
 **Contenu :** filtres par Class et Marque, indicateurs clés, nombre de produits par catégorie, comparaison ventes vs retours, arbre de décomposition (catégorie → sous-catégorie), tableau détaillé des produits et top produits par nombre de ventes.
 
@@ -107,7 +107,7 @@ Création de 3 pages de rapport, avec segments (filtres), bouton **« Effacer to
 
 ### 💰 Page 3 : Ventes
 
-![Dashboard Ventes](ScreenShots/Ventes.png)
+![Dashboard Ventes](ScreenShots/Ventes.PNG)
 
 **Contenu :** 3 graphiques en secteurs (CA par catégorie, classe et marque), segments Année / Mois / Pays / Boutique, jauge CA vs CA-1, courbe CA et nombre de ventes par date, tableau d'analyse mensuelle avec écart et **sparklines** (CA par jour, avec points max et min), et tableau détaillé des ventes.
 
