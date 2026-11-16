@@ -83,7 +83,7 @@ Création de 3 pages de rapport, avec segments (filtres), bouton **« Effacer to
 
 ### 🏬 Page 1 : Boutiques
 
-![Dashboard Boutiques](ScreenShots/Boutique.png)
+![Dashboard Boutiques](ScreenShots/Boutique.PNG)
 
 **Contenu :** segments Pays et Continent, indicateurs (pays sélectionné, nombre de boutiques, nombre d'employés), répartition par type et par status, carte géographique, tableau détaillé (Pays, Boutique, Employee, Surface, Type, Status) et nombre de ventes par boutique.
 
