@@ -145,7 +145,7 @@ Création de 3 pages de rapport, avec segments (filtres), bouton **« Effacer to
 ├── README.md
 ├── ContosoRetail.pbix        # Fichier Power BI
 ├── data/                     # Fichiers CSV sources
-└── images/                   # Captures d'écran des dashboards
+└── ScreenShots/                   # Captures d'écran des dashboards
     ├── boutiques.png
     ├── produits.png
     └── ventes.png
@@ -156,7 +156,3 @@ Création de 3 pages de rapport, avec segments (filtres), bouton **« Effacer to
 Power BI Desktop · Power Query · DAX · Modélisation en étoile · Data visualisation
 
 ---
-
-## 👤 Auteur
-
-**[Ton nom]** · [LinkedIn](https://linkedin.com/in/ton-profil) · [GitHub](https://github.com/ton-pseudo)
