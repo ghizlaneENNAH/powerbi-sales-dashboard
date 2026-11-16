@@ -83,7 +83,7 @@ Création de 3 pages de rapport, avec segments (filtres), bouton **« Effacer to
 
 ### 🏬 Page 1 : Boutiques
 
-![Dashboard Boutiques](images/boutiques.png)
+![Dashboard Boutiques](ScreenShots/Boutique.png)
 
 **Contenu :** segments Pays et Continent, indicateurs (pays sélectionné, nombre de boutiques, nombre d'employés), répartition par type et par status, carte géographique, tableau détaillé (Pays, Boutique, Employee, Surface, Type, Status) et nombre de ventes par boutique.
 
@@ -95,7 +95,7 @@ Création de 3 pages de rapport, avec segments (filtres), bouton **« Effacer to
 
 ### 📦 Page 2 : Produits
 
-![Dashboard Produits](images/produits.png)
+![Dashboard Produits](ScreenShots/Produits.png)
 
 **Contenu :** filtres par Class et Marque, indicateurs clés, nombre de produits par catégorie, comparaison ventes vs retours, arbre de décomposition (catégorie → sous-catégorie), tableau détaillé des produits et top produits par nombre de ventes.
 
@@ -107,7 +107,7 @@ Création de 3 pages de rapport, avec segments (filtres), bouton **« Effacer to
 
 ### 💰 Page 3 : Ventes
 
-![Dashboard Ventes](images/ventes.png)
+![Dashboard Ventes](ScreenShots/Ventes.png)
 
 **Contenu :** 3 graphiques en secteurs (CA par catégorie, classe et marque), segments Année / Mois / Pays / Boutique, jauge CA vs CA-1, courbe CA et nombre de ventes par date, tableau d'analyse mensuelle avec écart et **sparklines** (CA par jour, avec points max et min), et tableau détaillé des ventes.
 
